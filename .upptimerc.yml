@@ -27,7 +27,7 @@ status-website:
       href: https://f1nn.net
     - title: Furret
       href: https://f1nn.net/furret
-  i18n:
-    footer: Page powered by F1nn & ProShisha24
+i18n:
+  footer: Page powered by F1nn & ProShisha24
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
