@@ -20,13 +20,14 @@ status-website:
   # baseUrl: /your-repo-name
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: status.f1nn.net
-  introTitle: "**F1nn.net Status Page**"
-  introMessage: This site is powered by F1nn & ProShisha24
+  introTitle: "**Status Page**"
+  introMessage: 
   navbar:
     - title: Home
       href: https://f1nn.net
     - title: Furret
       href: https://f1nn.net/furret
-
+  i18n:
+    footer: Page powered by F1nn & ProShisha24
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
