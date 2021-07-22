@@ -8,24 +8,25 @@ sites:
   - name: SManu.at
     url: https://smanu.at
   - name: ProShisha24
-    url: https://proshisha24.
+    url: https://proshisha24.de
   - name: Hiroshima.fun
     url: https://hiroshima.fun
 
 status-website:
+  theme: dark
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: status.f1nn.net
   # baseUrl: /your-repo-name
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptime
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  name: status.f1nn.net
+  introTitle: "**F1nn.net Status Page**"
+  introMessage: This site is powered by F1nn & ProShisha24
   navbar:
-    - title: Status
-      href: https://status.f1nn.net
-    - title: GitHub
-      href: https://github.com/$OWNER/$REPO
+    - title: Home
+      href: https://f1nn.net
+    - title: Furret
+      href: https://f1nn.net/furret
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
