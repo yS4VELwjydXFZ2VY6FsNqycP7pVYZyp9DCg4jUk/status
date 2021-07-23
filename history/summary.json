@@ -4,18 +4,20 @@
     "url": "https://f1nn.net",
     "icon": "https://favicons.githubusercontent.com/f1nn.net",
     "slug": "f1nn-net",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.88%",
+    "uptimeDay": "99.88%",
+    "uptimeWeek": "99.88%",
+    "uptimeMonth": "99.88%",
+    "uptimeYear": "99.88%",
     "time": 893,
     "timeDay": 893,
     "timeWeek": 893,
     "timeMonth": 893,
     "timeYear": 893,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-07-23": 1
+    }
   },
   {
     "name": "SManu.at",
