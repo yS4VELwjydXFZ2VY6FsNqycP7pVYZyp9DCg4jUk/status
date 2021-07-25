@@ -10,13 +10,35 @@
     "uptimeWeek": "98.89%",
     "uptimeMonth": "98.89%",
     "uptimeYear": "98.89%",
-    "time": 899,
-    "timeDay": 886,
-    "timeWeek": 899,
-    "timeMonth": 899,
-    "timeYear": 899,
+    "time": 888,
+    "timeDay": 852,
+    "timeWeek": 888,
+    "timeMonth": 888,
+    "timeYear": 888,
     "dailyMinutesDown": {
       "2021-07-23": 41
+    }
+  },
+  {
+    "name": "SManu.at",
+    "url": "https://smanu.at",
+    "icon": "https://favicons.githubusercontent.com/smanu.at",
+    "slug": "s-manu-at",
+    "status": "down",
+    "uptime": "0.00%",
+    "uptimeDay": "0.00%",
+    "uptimeWeek": "0.00%",
+    "uptimeMonth": "0.00%",
+    "uptimeYear": "0.00%",
+    "time": 409,
+    "timeDay": 130,
+    "timeWeek": 409,
+    "timeMonth": 409,
+    "timeYear": 409,
+    "dailyMinutesDown": {
+      "2021-07-25": 474,
+      "2021-07-24": 1440,
+      "2021-07-23": 570
     }
   },
   {
@@ -30,11 +52,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1198,
-    "timeDay": 1121,
-    "timeWeek": 1198,
-    "timeMonth": 1198,
-    "timeYear": 1198,
+    "time": 1211,
+    "timeDay": 1185,
+    "timeWeek": 1211,
+    "timeMonth": 1211,
+    "timeYear": 1211,
     "dailyMinutesDown": {}
   },
   {
@@ -48,11 +70,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1140,
-    "timeDay": 1109,
-    "timeWeek": 1140,
-    "timeMonth": 1140,
-    "timeYear": 1140,
+    "time": 1156,
+    "timeDay": 1172,
+    "timeWeek": 1156,
+    "timeMonth": 1156,
+    "timeYear": 1156,
     "dailyMinutesDown": {}
   }
 ]
