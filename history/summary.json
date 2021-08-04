@@ -4,10 +4,10 @@
     "url": "https://f1nn.net",
     "icon": "https://favicons.githubusercontent.com/f1nn.net",
     "slug": "f1nn-net",
-    "status": "up",
+    "status": "down",
     "uptime": "99.68%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "99.68%",
     "uptimeYear": "99.68%",
     "time": 876,
@@ -16,6 +16,7 @@
     "timeMonth": 876,
     "timeYear": 876,
     "dailyMinutesDown": {
+      "2021-08-04": 1,
       "2021-07-26": 15,
       "2021-07-23": 41
     }
@@ -25,10 +26,10 @@
     "url": "https://proshisha24.de",
     "icon": "https://favicons.githubusercontent.com/proshisha24.de",
     "slug": "pro-shisha24",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1167,
@@ -36,14 +37,16 @@
     "timeWeek": 1240,
     "timeMonth": 1167,
     "timeYear": 1167,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-08-04": 1
+    }
   },
   {
     "name": "Hiroshima.fun",
     "url": "https://hiroshima.fun",
     "icon": "https://favicons.githubusercontent.com/hiroshima.fun",
     "slug": "hiroshima-fun",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -54,6 +57,8 @@
     "timeWeek": 1185,
     "timeMonth": 1110,
     "timeYear": 1110,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-08-04": 0
+    }
   }
 ]
