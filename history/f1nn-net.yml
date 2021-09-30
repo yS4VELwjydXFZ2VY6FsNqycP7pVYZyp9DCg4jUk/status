@@ -1,7 +1,7 @@
 url: https://f1nn.net
-status: up
-code: 200
-responseTime: 676
-lastUpdated: 2021-09-29T23:05:02.458Z
+status: down
+code: 502
+responseTime: 1549
+lastUpdated: 2021-09-30T16:33:32.091Z
 startTime: Thu Jul 22 2021 18:00:25 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
