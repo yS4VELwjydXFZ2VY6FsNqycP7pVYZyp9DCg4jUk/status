@@ -16,7 +16,7 @@
     "timeMonth": 80,
     "timeYear": 691,
     "dailyMinutesDown": {
-      "2022-05-07": 1273,
+      "2022-05-07": 1291,
       "2022-05-06": 1440,
       "2022-05-05": 1440,
       "2022-05-04": 1440,
@@ -213,18 +213,18 @@
     "icon": "https://favicons.githubusercontent.com/proshisha24.de",
     "slug": "pro-shisha24",
     "status": "down",
-    "uptime": "86.92%",
+    "uptime": "86.91%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "86.92%",
+    "uptimeYear": "86.91%",
     "time": 1275,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 1275,
     "dailyMinutesDown": {
-      "2022-05-07": 1273,
+      "2022-05-07": 1291,
       "2022-05-06": 1440,
       "2022-05-05": 1440,
       "2022-05-04": 1440,
@@ -281,9 +281,9 @@
     "url": "https://hiroshima.fun",
     "icon": "https://favicons.githubusercontent.com/hiroshima.fun",
     "slug": "hiroshima-fun",
-    "status": "up",
+    "status": "down",
     "uptime": "98.09%",
-    "uptimeDay": "55.58%",
+    "uptimeDay": "56.78%",
     "uptimeWeek": "57.70%",
     "uptimeMonth": "88.41%",
     "uptimeYear": "98.09%",
@@ -307,7 +307,7 @@
       "2022-04-04": 420,
       "2022-04-02": 1243,
       "2022-04-01": 1166,
-      "2022-03-29": 60
+      "2022-03-29": 27
     }
   }
 ]
