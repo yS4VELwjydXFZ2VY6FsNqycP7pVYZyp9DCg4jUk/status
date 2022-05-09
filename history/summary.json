@@ -5,18 +5,18 @@
     "icon": "https://favicons.githubusercontent.com/f1nn.net",
     "slug": "f1nn-net",
     "status": "down",
-    "uptime": "38.50%",
+    "uptime": "38.49%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "38.50%",
+    "uptimeYear": "38.49%",
     "time": 691,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 80,
     "timeYear": 691,
     "dailyMinutesDown": {
-      "2022-05-09": 581,
+      "2022-05-09": 609,
       "2022-05-08": 1440,
       "2022-05-07": 1440,
       "2022-05-06": 1440,
@@ -226,7 +226,7 @@
     "timeMonth": 0,
     "timeYear": 1275,
     "dailyMinutesDown": {
-      "2022-05-09": 581,
+      "2022-05-09": 609,
       "2022-05-08": 1440,
       "2022-05-07": 1440,
       "2022-05-06": 1440,
@@ -285,15 +285,15 @@
     "url": "https://hiroshima.fun",
     "icon": "https://favicons.githubusercontent.com/hiroshima.fun",
     "slug": "hiroshima-fun",
-    "status": "up",
+    "status": "down",
     "uptime": "98.85%",
-    "uptimeDay": "46.35%",
+    "uptimeDay": "47.03%",
     "uptimeWeek": "56.94%",
-    "uptimeMonth": "89.00%",
+    "uptimeMonth": "89.05%",
     "uptimeYear": "98.85%",
     "time": 936,
     "timeDay": 559,
-    "timeWeek": 521,
+    "timeWeek": 523,
     "timeMonth": 553,
     "timeYear": 936,
     "dailyMinutesDown": {
@@ -305,7 +305,7 @@
       "2022-05-04": 226,
       "2022-05-03": 641,
       "2022-05-02": 727,
-      "2022-05-01": 160
+      "2022-05-01": 136
     }
   }
 ]
