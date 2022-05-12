@@ -16,7 +16,7 @@
     "timeMonth": 82,
     "timeYear": 691,
     "dailyMinutesDown": {
-      "2022-05-12": 1177,
+      "2022-05-12": 1187,
       "2022-05-11": 1440,
       "2022-05-10": 1440,
       "2022-05-09": 1440,
@@ -229,7 +229,7 @@
     "timeMonth": 0,
     "timeYear": 1275,
     "dailyMinutesDown": {
-      "2022-05-12": 1177,
+      "2022-05-12": 1187,
       "2022-05-11": 1440,
       "2022-05-10": 1440,
       "2022-05-09": 1440,
@@ -291,11 +291,11 @@
     "url": "https://hiroshima.fun",
     "icon": "https://favicons.githubusercontent.com/hiroshima.fun",
     "slug": "hiroshima-fun",
-    "status": "up",
+    "status": "down",
     "uptime": "98.98%",
-    "uptimeDay": "58.21%",
-    "uptimeWeek": "56.97%",
-    "uptimeMonth": "90.10%",
+    "uptimeDay": "58.20%",
+    "uptimeWeek": "57.20%",
+    "uptimeMonth": "90.15%",
     "uptimeYear": "98.98%",
     "time": 885,
     "timeDay": 528,
@@ -309,7 +309,7 @@
       "2022-05-09": 766,
       "2022-05-08": 822,
       "2022-05-07": 574,
-      "2022-05-06": 520
+      "2022-05-06": 497
     }
   }
 ]
