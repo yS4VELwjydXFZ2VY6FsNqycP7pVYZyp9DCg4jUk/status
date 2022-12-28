@@ -5,7 +5,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/f1nn.net.ico",
     "slug": "f1nn-net",
     "status": "down",
-    "uptime": "21.39%",
+    "uptime": "21.38%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -14,9 +14,10 @@
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 523,
+    "timeYear": 521,
     "dailyMinutesDown": {
-      "2022-12-27": 1307,
+      "2022-12-28": 28,
+      "2022-12-27": 1440,
       "2022-12-26": 1440,
       "2022-12-25": 1440,
       "2022-12-24": 1440,
@@ -361,8 +362,7 @@
       "2022-01-18": 23,
       "2022-01-15": 16,
       "2022-01-06": 27,
-      "2021-12-29": 1133,
-      "2021-12-28": 1440
+      "2021-12-29": 1133
     }
   },
   {
@@ -371,18 +371,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/proshisha24.de.ico",
     "slug": "pro-shisha24",
     "status": "down",
-    "uptime": "48.04%",
+    "uptime": "48.03%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "25.55%",
-    "time": 1275,
+    "uptimeYear": "25.52%",
+    "time": 1276,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 1616,
+    "timeYear": 1621,
     "dailyMinutesDown": {
-      "2022-12-27": 1307,
+      "2022-12-28": 28,
+      "2022-12-27": 1440,
       "2022-12-26": 1440,
       "2022-12-25": 1440,
       "2022-12-24": 1440,
@@ -671,17 +672,16 @@
     "slug": "hiroshima-fun",
     "status": "up",
     "uptime": "99.46%",
-    "uptimeDay": "99.35%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.89%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "99.23%",
-    "time": 685,
-    "timeDay": 493,
-    "timeWeek": 469,
-    "timeMonth": 447,
-    "timeYear": 654,
+    "time": 684,
+    "timeDay": 508,
+    "timeWeek": 451,
+    "timeMonth": 449,
+    "timeYear": 653,
     "dailyMinutesDown": {
-      "2022-12-27": 9,
       "2022-12-03": 15,
       "2022-11-27": 22,
       "2022-11-20": 70,
@@ -699,7 +699,7 @@
       "2022-05-15": 608,
       "2022-05-14": 422,
       "2022-05-13": 563,
-      "2022-05-12": 84
+      "2022-05-12": 119
     }
   }
 ]
