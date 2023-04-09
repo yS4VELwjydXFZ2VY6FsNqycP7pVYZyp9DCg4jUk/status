@@ -5,7 +5,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/f1nn.net.ico",
     "slug": "f1nn-net",
     "status": "down",
-    "uptime": "17.92%",
+    "uptime": "17.89%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -14,9 +14,10 @@
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 81,
+    "timeYear": 80,
     "dailyMinutesDown": {
-      "2023-04-08": 26,
+      "2023-04-09": 29,
+      "2023-04-08": 1440,
       "2023-04-07": 1440,
       "2023-04-06": 1440,
       "2023-04-05": 1440,
@@ -379,8 +380,7 @@
       "2022-04-13": 1440,
       "2022-04-12": 1440,
       "2022-04-11": 1440,
-      "2022-04-10": 1440,
-      "2022-04-09": 1440
+      "2022-04-10": 1440
     }
   },
   {
@@ -389,18 +389,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/proshisha24.de.ico",
     "slug": "pro-shisha24",
     "status": "down",
-    "uptime": "40.26%",
+    "uptime": "40.19%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 1716,
+    "time": 1720,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-04-08": 26,
+      "2023-04-09": 29,
+      "2023-04-08": 1440,
       "2023-04-07": 1440,
       "2023-04-06": 1440,
       "2023-04-05": 1440,
@@ -763,8 +764,7 @@
       "2022-04-13": 1440,
       "2022-04-12": 1440,
       "2022-04-11": 1440,
-      "2022-04-10": 1440,
-      "2022-04-09": 1440
+      "2022-04-10": 1440
     }
   },
   {
@@ -773,18 +773,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/hiroshima.fun.ico",
     "slug": "hiroshima-fun",
     "status": "down",
-    "uptime": "90.07%",
+    "uptime": "89.93%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "83.02%",
+    "uptimeYear": "82.75%",
     "time": 646,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 502,
     "dailyMinutesDown": {
-      "2023-04-08": 26,
+      "2023-04-09": 29,
+      "2023-04-08": 1440,
       "2023-04-07": 1440,
       "2023-04-06": 1440,
       "2023-04-05": 1440,
