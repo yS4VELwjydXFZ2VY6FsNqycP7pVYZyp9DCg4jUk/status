@@ -5,7 +5,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/f1nn.net.ico",
     "slug": "f1nn-net",
     "status": "down",
-    "uptime": "17.53%",
+    "uptime": "17.50%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -14,9 +14,10 @@
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 67,
+    "timeYear": 63,
     "dailyMinutesDown": {
-      "2023-04-22": 28,
+      "2023-04-23": 31,
+      "2023-04-22": 1440,
       "2023-04-21": 1440,
       "2023-04-20": 1440,
       "2023-04-19": 1440,
@@ -379,8 +380,7 @@
       "2022-04-27": 1440,
       "2022-04-26": 1440,
       "2022-04-25": 1440,
-      "2022-04-24": 1440,
-      "2022-04-23": 1440
+      "2022-04-24": 1440
     }
   },
   {
@@ -389,7 +389,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/proshisha24.de.ico",
     "slug": "pro-shisha24",
     "status": "down",
-    "uptime": "39.37%",
+    "uptime": "39.31%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -400,7 +400,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-04-22": 28,
+      "2023-04-23": 31,
+      "2023-04-22": 1440,
       "2023-04-21": 1440,
       "2023-04-20": 1440,
       "2023-04-19": 1440,
@@ -763,8 +764,7 @@
       "2022-04-27": 1440,
       "2022-04-26": 1440,
       "2022-04-25": 1440,
-      "2022-04-24": 1440,
-      "2022-04-23": 1440
+      "2022-04-24": 1440
     }
   },
   {
@@ -773,18 +773,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/hiroshima.fun.ico",
     "slug": "hiroshima-fun",
     "status": "down",
-    "uptime": "88.10%",
+    "uptime": "87.96%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "79.18%",
+    "uptimeYear": "78.91%",
     "time": 643,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 502,
     "dailyMinutesDown": {
-      "2023-04-22": 28,
+      "2023-04-23": 31,
+      "2023-04-22": 1440,
       "2023-04-21": 1440,
       "2023-04-20": 1440,
       "2023-04-19": 1440,
