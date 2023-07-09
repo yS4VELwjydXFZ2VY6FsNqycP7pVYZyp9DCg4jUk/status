@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/f1nn.net.ico",
     "slug": "f1nn-net",
     "status": "down",
-    "uptime": "15.64%",
+    "uptime": "15.62%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
-    "time": 152,
+    "time": 143,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-07-08": 37,
+      "2023-07-09": 41,
+      "2023-07-08": 1440,
       "2023-07-07": 1440,
       "2023-07-06": 1440,
       "2023-07-05": 1440,
@@ -379,8 +380,7 @@
       "2022-07-13": 1440,
       "2022-07-12": 1440,
       "2022-07-11": 1440,
-      "2022-07-10": 1440,
-      "2022-07-09": 1440
+      "2022-07-10": 1440
     }
   },
   {
@@ -389,7 +389,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/proshisha24.de.ico",
     "slug": "pro-shisha24",
     "status": "down",
-    "uptime": "35.13%",
+    "uptime": "35.09%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -400,7 +400,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-07-08": 37,
+      "2023-07-09": 41,
+      "2023-07-08": 1440,
       "2023-07-07": 1440,
       "2023-07-06": 1440,
       "2023-07-05": 1440,
@@ -763,8 +764,7 @@
       "2022-07-13": 1440,
       "2022-07-12": 1440,
       "2022-07-11": 1440,
-      "2022-07-10": 1440,
-      "2022-07-09": 1440
+      "2022-07-10": 1440
     }
   },
   {
@@ -773,16 +773,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/hiroshima.fun.ico",
     "slug": "hiroshima-fun",
     "status": "up",
-    "uptime": "83.49%",
+    "uptime": "83.51%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "68.23%",
-    "time": 699,
-    "timeDay": 2981,
-    "timeWeek": 3167,
-    "timeMonth": 2743,
-    "timeYear": 770,
+    "time": 705,
+    "timeDay": 2738,
+    "timeWeek": 2994,
+    "timeMonth": 2777,
+    "timeYear": 779,
     "dailyMinutesDown": {
       "2023-06-03": 197,
       "2023-06-02": 1440,
