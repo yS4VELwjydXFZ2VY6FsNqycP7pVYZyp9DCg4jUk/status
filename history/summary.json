@@ -5,7 +5,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/f1nn.net.ico",
     "slug": "f1nn-net",
     "status": "down",
-    "uptime": "13.89%",
+    "uptime": "13.88%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -16,7 +16,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-10-06": 26,
+      "2023-10-07": 25,
+      "2023-10-06": 1440,
       "2023-10-05": 1440,
       "2023-10-04": 1440,
       "2023-10-03": 1440,
@@ -379,8 +380,7 @@
       "2022-10-11": 1440,
       "2022-10-10": 1440,
       "2022-10-09": 1440,
-      "2022-10-08": 1440,
-      "2022-10-07": 1440
+      "2022-10-08": 1440
     }
   },
   {
@@ -389,7 +389,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/proshisha24.de.ico",
     "slug": "pro-shisha24",
     "status": "down",
-    "uptime": "31.21%",
+    "uptime": "31.17%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -400,7 +400,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-10-06": 26,
+      "2023-10-07": 26,
+      "2023-10-06": 1440,
       "2023-10-05": 1440,
       "2023-10-04": 1440,
       "2023-10-03": 1440,
@@ -763,8 +764,7 @@
       "2022-10-11": 1440,
       "2022-10-10": 1440,
       "2022-10-09": 1440,
-      "2022-10-08": 1440,
-      "2022-10-07": 1440
+      "2022-10-08": 1440
     }
   },
   {
@@ -773,16 +773,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/hiroshima.fun.ico",
     "slug": "hiroshima-fun",
     "status": "up",
-    "uptime": "85.33%",
+    "uptime": "85.35%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "68.36%",
-    "time": 1143,
-    "timeDay": 1258,
-    "timeWeek": 2468,
-    "timeMonth": 2590,
-    "timeYear": 1420,
+    "time": 1150,
+    "timeDay": 2560,
+    "timeWeek": 2693,
+    "timeMonth": 2646,
+    "timeYear": 1428,
     "dailyMinutesDown": {
       "2023-06-03": 197,
       "2023-06-02": 1440,
