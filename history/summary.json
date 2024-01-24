@@ -5,7 +5,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/f1nn.net.ico",
     "slug": "f1nn-net",
     "status": "down",
-    "uptime": "12.24%",
+    "uptime": "12.22%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -16,7 +16,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-01-23": 29,
+      "2024-01-24": 29,
+      "2024-01-23": 1440,
       "2024-01-22": 1440,
       "2024-01-21": 1440,
       "2024-01-20": 1440,
@@ -379,8 +380,7 @@
       "2023-01-28": 1440,
       "2023-01-27": 1440,
       "2023-01-26": 1440,
-      "2023-01-25": 1440,
-      "2023-01-24": 1440
+      "2023-01-25": 1440
     }
   },
   {
@@ -389,7 +389,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/proshisha24.de.ico",
     "slug": "pro-shisha24",
     "status": "down",
-    "uptime": "27.49%",
+    "uptime": "27.46%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -400,7 +400,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-01-23": 29,
+      "2024-01-24": 29,
+      "2024-01-23": 1440,
       "2024-01-22": 1440,
       "2024-01-21": 1440,
       "2024-01-20": 1440,
@@ -763,8 +764,7 @@
       "2023-01-28": 1440,
       "2023-01-27": 1440,
       "2023-01-26": 1440,
-      "2023-01-25": 1440,
-      "2023-01-24": 1440
+      "2023-01-25": 1440
     }
   },
   {
@@ -773,16 +773,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/hiroshima.fun.ico",
     "slug": "hiroshima-fun",
     "status": "up",
-    "uptime": "87.08%",
+    "uptime": "87.10%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "68.43%",
-    "time": 1771,
-    "timeDay": 1699,
-    "timeWeek": 2612,
-    "timeMonth": 2565,
-    "timeYear": 2309,
+    "uptimeYear": "68.47%",
+    "time": 1776,
+    "timeDay": 2385,
+    "timeWeek": 2374,
+    "timeMonth": 2466,
+    "timeYear": 2322,
     "dailyMinutesDown": {
       "2023-06-03": 197,
       "2023-06-02": 1440,
