@@ -5,7 +5,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/f1nn.net.ico",
     "slug": "f1nn-net",
     "status": "down",
-    "uptime": "11.50%",
+    "uptime": "11.48%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "4.67%",
@@ -16,7 +16,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-03-22": 27,
+      "2024-03-23": 26,
+      "2024-03-22": 1440,
       "2024-03-21": 1440,
       "2024-03-20": 1440,
       "2024-03-19": 1440,
@@ -379,8 +380,7 @@
       "2023-03-28": 1440,
       "2023-03-27": 1440,
       "2023-03-26": 1440,
-      "2023-03-25": 1440,
-      "2023-03-24": 1440
+      "2023-03-25": 1440
     }
   },
   {
@@ -389,7 +389,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/proshisha24.de.ico",
     "slug": "pro-shisha24",
     "status": "down",
-    "uptime": "25.82%",
+    "uptime": "25.79%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "4.67%",
@@ -400,7 +400,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-03-22": 27,
+      "2024-03-23": 26,
+      "2024-03-22": 1440,
       "2024-03-21": 1440,
       "2024-03-20": 1440,
       "2024-03-19": 1440,
@@ -763,8 +764,7 @@
       "2023-03-28": 1440,
       "2023-03-27": 1440,
       "2023-03-26": 1440,
-      "2023-03-25": 1440,
-      "2023-03-24": 1440
+      "2023-03-25": 1440
     }
   },
   {
@@ -773,16 +773,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/hiroshima.fun.ico",
     "slug": "hiroshima-fun",
     "status": "up",
-    "uptime": "86.44%",
+    "uptime": "86.45%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "95.35%",
-    "uptimeYear": "76.12%",
-    "time": 2284,
-    "timeDay": 1645,
-    "timeWeek": 2714,
-    "timeMonth": 3977,
-    "timeYear": 2675,
+    "uptimeMonth": "98.63%",
+    "uptimeYear": "76.40%",
+    "time": 2288,
+    "timeDay": 1807,
+    "timeWeek": 2834,
+    "timeMonth": 3858,
+    "timeYear": 2672,
     "dailyMinutesDown": {
       "2024-03-05": 16,
       "2024-02-23": 610,
@@ -870,8 +870,7 @@
       "2023-03-28": 1440,
       "2023-03-27": 1440,
       "2023-03-26": 1440,
-      "2023-03-25": 1440,
-      "2023-03-24": 1440
+      "2023-03-25": 1440
     }
   }
 ]
