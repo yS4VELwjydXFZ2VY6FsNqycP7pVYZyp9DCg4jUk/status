@@ -5,7 +5,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/f1nn.net.ico",
     "slug": "f1nn-net",
     "status": "down",
-    "uptime": "8.59%",
+    "uptime": "8.58%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -16,7 +16,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-02-15": 36,
+      "2025-02-16": 41,
+      "2025-02-15": 1440,
       "2025-02-14": 1440,
       "2025-02-13": 1440,
       "2025-02-12": 1440,
@@ -379,8 +380,7 @@
       "2024-02-21": 1440,
       "2024-02-20": 1440,
       "2024-02-19": 1440,
-      "2024-02-18": 1440,
-      "2024-02-17": 1440
+      "2024-02-18": 1440
     }
   },
   {
@@ -389,7 +389,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/proshisha24.de.ico",
     "slug": "pro-shisha24",
     "status": "down",
-    "uptime": "19.36%",
+    "uptime": "19.35%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -400,7 +400,8 @@
     "timeMonth": 0,
     "timeYear": 173,
     "dailyMinutesDown": {
-      "2025-02-15": 37,
+      "2025-02-16": 41,
+      "2025-02-15": 1440,
       "2025-02-14": 1440,
       "2025-02-13": 1440,
       "2025-02-12": 1440,
@@ -763,8 +764,7 @@
       "2024-02-21": 1440,
       "2024-02-20": 1440,
       "2024-02-19": 1440,
-      "2024-02-18": 1440,
-      "2024-02-17": 1440
+      "2024-02-18": 1440
     }
   },
   {
@@ -773,15 +773,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/hiroshima.fun.ico",
     "slug": "hiroshima-fun",
     "status": "up",
-    "uptime": "89.87%",
+    "uptime": "89.88%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "97.68%",
-    "time": 2610,
-    "timeDay": 1937,
-    "timeWeek": 1685,
-    "timeMonth": 2325,
+    "uptimeYear": "97.95%",
+    "time": 2615,
+    "timeDay": 4770,
+    "timeWeek": 2189,
+    "timeMonth": 2346,
     "timeYear": 2611,
     "dailyMinutesDown": {
       "2024-12-11": 38,
@@ -793,8 +793,7 @@
       "2024-02-21": 1440,
       "2024-02-20": 1440,
       "2024-02-19": 1440,
-      "2024-02-18": 1440,
-      "2024-02-17": 1440
+      "2024-02-18": 1440
     }
   }
 ]
