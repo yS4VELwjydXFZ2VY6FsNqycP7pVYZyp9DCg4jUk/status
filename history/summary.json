@@ -8,7 +8,7 @@
     "uptime": "7.31%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "0.00%",
+    "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
     "time": 0,
     "timeDay": 0,
@@ -16,7 +16,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-09-30": 41,
+      "2025-10-01": 46,
+      "2025-09-30": 1440,
       "2025-09-29": 1440,
       "2025-09-28": 1440,
       "2025-09-27": 1440,
@@ -379,8 +380,7 @@
       "2024-10-05": 1440,
       "2024-10-04": 1440,
       "2024-10-03": 1440,
-      "2024-10-02": 1440,
-      "2024-10-01": 1440
+      "2024-10-02": 1440
     }
   },
   {
@@ -389,10 +389,10 @@
     "icon": "https://icons.duckduckgo.com/ip3/proshisha24.de.ico",
     "slug": "pro-shisha24",
     "status": "down",
-    "uptime": "16.49%",
+    "uptime": "16.48%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "0.00%",
+    "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
     "time": 0,
     "timeDay": 0,
@@ -400,7 +400,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-09-30": 41,
+      "2025-10-01": 46,
+      "2025-09-30": 1440,
       "2025-09-29": 1440,
       "2025-09-28": 1440,
       "2025-09-27": 1440,
@@ -763,8 +764,7 @@
       "2024-10-05": 1440,
       "2024-10-04": 1440,
       "2024-10-03": 1440,
-      "2024-10-02": 1440,
-      "2024-10-01": 1440
+      "2024-10-02": 1440
     }
   },
   {
@@ -773,16 +773,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/hiroshima.fun.ico",
     "slug": "hiroshima-fun",
     "status": "up",
-    "uptime": "91.37%",
+    "uptime": "91.38%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
-    "time": 2444,
-    "timeDay": 2259,
-    "timeWeek": 2531,
-    "timeMonth": 2318,
-    "timeYear": 2479,
+    "time": 2449,
+    "timeDay": 3757,
+    "timeWeek": 2874,
+    "timeMonth": 2363,
+    "timeYear": 2484,
     "dailyMinutesDown": {
       "2025-03-12": 128,
       "2024-12-11": 38
