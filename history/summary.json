@@ -16,7 +16,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-06-07": 126,
+      "2026-06-07": 398,
       "2026-06-06": 1440,
       "2026-06-05": 1440,
       "2026-06-04": 1440,
@@ -400,7 +400,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-06-07": 126,
+      "2026-06-07": 398,
       "2026-06-06": 1440,
       "2026-06-05": 1440,
       "2026-06-04": 1440,
@@ -772,17 +772,17 @@
     "url": "https://hiroshima.fun",
     "icon": "https://icons.duckduckgo.com/ip3/hiroshima.fun.ico",
     "slug": "hiroshima-fun",
-    "status": "down",
-    "uptime": "92.54%",
-    "uptimeDay": "77.80%",
-    "uptimeWeek": "93.42%",
-    "uptimeMonth": "97.71%",
-    "uptimeYear": "99.51%",
+    "status": "up",
+    "uptime": "92.53%",
+    "uptimeDay": "69.02%",
+    "uptimeWeek": "90.72%",
+    "uptimeMonth": "97.09%",
+    "uptimeYear": "99.46%",
     "time": 2416,
-    "timeDay": 2474,
-    "timeWeek": 2310,
-    "timeMonth": 2727,
-    "timeYear": 2390,
+    "timeDay": 1642,
+    "timeWeek": 2196,
+    "timeMonth": 2681,
+    "timeYear": 2387,
     "dailyMinutesDown": {
       "2025-12-05": 80,
       "2026-01-01": 25,
@@ -814,7 +814,7 @@
       "2026-05-30": 64,
       "2026-06-05": 220,
       "2026-06-06": 441,
-      "2026-06-07": 3
+      "2026-06-07": 274
     }
   }
 ]
