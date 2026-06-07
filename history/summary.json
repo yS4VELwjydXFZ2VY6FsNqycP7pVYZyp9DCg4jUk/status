@@ -5,7 +5,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/f1nn.net.ico",
     "slug": "f1nn-net",
     "status": "down",
-    "uptime": "6.29%",
+    "uptime": "6.28%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -16,7 +16,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-06-06": 1006,
+      "2026-06-07": 124,
+      "2026-06-06": 1440,
       "2026-06-05": 1440,
       "2026-06-04": 1440,
       "2026-06-03": 1440,
@@ -379,8 +380,7 @@
       "2025-06-11": 1440,
       "2025-06-10": 1440,
       "2025-06-09": 1440,
-      "2025-06-08": 1440,
-      "2025-06-07": 1440
+      "2025-06-08": 1440
     }
   },
   {
@@ -389,7 +389,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/proshisha24.de.ico",
     "slug": "pro-shisha24",
     "status": "down",
-    "uptime": "14.18%",
+    "uptime": "14.17%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -400,7 +400,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-06-06": 1006,
+      "2026-06-07": 124,
+      "2026-06-06": 1440,
       "2026-06-05": 1440,
       "2026-06-04": 1440,
       "2026-06-03": 1440,
@@ -763,8 +764,7 @@
       "2025-06-11": 1440,
       "2025-06-10": 1440,
       "2025-06-09": 1440,
-      "2025-06-08": 1440,
-      "2025-06-07": 1440
+      "2025-06-08": 1440
     }
   },
   {
@@ -772,17 +772,17 @@
     "url": "https://hiroshima.fun",
     "icon": "https://icons.duckduckgo.com/ip3/hiroshima.fun.ico",
     "slug": "hiroshima-fun",
-    "status": "up",
+    "status": "down",
     "uptime": "92.54%",
-    "uptimeDay": "69.39%",
-    "uptimeWeek": "92.80%",
+    "uptimeDay": "77.80%",
+    "uptimeWeek": "93.44%",
     "uptimeMonth": "97.72%",
     "uptimeYear": "99.51%",
-    "time": 2415,
-    "timeDay": 2602,
-    "timeWeek": 2501,
-    "timeMonth": 2823,
-    "timeYear": 2388,
+    "time": 2416,
+    "timeDay": 2474,
+    "timeWeek": 2310,
+    "timeMonth": 2727,
+    "timeYear": 2390,
     "dailyMinutesDown": {
       "2025-12-05": 80,
       "2026-01-01": 25,
@@ -813,7 +813,8 @@
       "2026-05-21": 273,
       "2026-05-30": 64,
       "2026-06-05": 220,
-      "2026-06-06": 441
+      "2026-06-06": 441,
+      "2026-06-07": 0
     }
   }
 ]
