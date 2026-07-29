@@ -5,7 +5,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/f1nn.net.ico",
     "slug": "f1nn-net",
     "status": "down",
-    "uptime": "6.11%",
+    "uptime": "6.10%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -16,7 +16,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-07-29": 78,
+      "2026-07-29": 1017,
       "2026-07-28": 1440,
       "2026-07-27": 1440,
       "2026-07-26": 1440,
@@ -400,7 +400,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-07-29": 78,
+      "2026-07-29": 1017,
       "2026-07-28": 1440,
       "2026-07-27": 1440,
       "2026-07-26": 1440,
@@ -772,15 +772,15 @@
     "url": "https://hiroshima.fun",
     "icon": "https://icons.duckduckgo.com/ip3/hiroshima.fun.ico",
     "slug": "hiroshima-fun",
-    "status": "up",
-    "uptime": "99.59%",
-    "uptimeDay": "83.39%",
-    "uptimeWeek": "86.33%",
+    "status": "down",
+    "uptime": "99.60%",
+    "uptimeDay": "95.46%",
+    "uptimeWeek": "88.21%",
     "uptimeMonth": "88.21%",
     "uptimeYear": "98.01%",
-    "time": 2417,
-    "timeDay": 4301,
-    "timeWeek": 2401,
+    "time": 2415,
+    "timeDay": 4234,
+    "timeWeek": 2522,
     "timeMonth": 2538,
     "timeYear": 2444,
     "dailyMinutesDown": {
@@ -850,7 +850,8 @@
       "2026-07-24": 313,
       "2026-07-25": 74,
       "2026-07-26": 95,
-      "2026-07-28": 255
+      "2026-07-28": 255,
+      "2026-07-29": 0
     }
   }
 ]
