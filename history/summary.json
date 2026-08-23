@@ -16,7 +16,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-08-23": 30,
+      "2026-08-23": 297,
       "2026-08-22": 1440,
       "2026-08-21": 1440,
       "2026-08-20": 1440,
@@ -389,7 +389,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/proshisha24.de.ico",
     "slug": "pro-shisha24",
     "status": "down",
-    "uptime": "13.59%",
+    "uptime": "13.58%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -400,7 +400,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-08-23": 30,
+      "2026-08-23": 297,
       "2026-08-22": 1440,
       "2026-08-21": 1440,
       "2026-08-20": 1440,
@@ -772,19 +772,19 @@
     "url": "https://hiroshima.fun",
     "icon": "https://icons.duckduckgo.com/ip3/hiroshima.fun.ico",
     "slug": "hiroshima-fun",
-    "status": "up",
-    "uptime": "99.67%",
-    "uptimeDay": "95.32%",
-    "uptimeWeek": "93.34%",
-    "uptimeMonth": "89.66%",
-    "uptimeYear": "98.34%",
-    "time": 2413,
-    "timeDay": 2015,
+    "status": "down",
+    "uptime": "99.68%",
+    "uptimeDay": "97.54%",
+    "uptimeWeek": "93.33%",
+    "uptimeMonth": "89.70%",
+    "uptimeYear": "98.35%",
+    "time": 2412,
+    "timeDay": 1627,
     "timeWeek": 2602,
     "timeMonth": 2469,
     "timeYear": 2453,
     "dailyMinutesDown": {
-      "2026-06-28": 169,
+      "2026-06-28": 90,
       "2026-06-29": 83,
       "2026-06-30": 343,
       "2026-07-01": 372,
@@ -830,7 +830,8 @@
       "2026-08-18": 5,
       "2026-08-20": 68,
       "2026-08-21": 73,
-      "2026-08-22": 99
+      "2026-08-22": 99,
+      "2026-08-23": 0
     }
   }
 ]
