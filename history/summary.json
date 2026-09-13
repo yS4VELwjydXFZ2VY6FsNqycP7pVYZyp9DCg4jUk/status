@@ -16,7 +16,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-09-13": 30,
+      "2026-09-13": 97,
       "2026-09-12": 1440,
       "2026-09-11": 1440,
       "2026-09-10": 1440,
@@ -400,7 +400,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-09-13": 30,
+      "2026-09-13": 97,
       "2026-09-12": 1440,
       "2026-09-11": 1440,
       "2026-09-10": 1440,
@@ -774,8 +774,8 @@
     "slug": "hiroshima-fun",
     "status": "up",
     "uptime": "99.66%",
-    "uptimeDay": "77.82%",
-    "uptimeWeek": "91.48%",
+    "uptimeDay": "80.99%",
+    "uptimeWeek": "91.75%",
     "uptimeMonth": "92.00%",
     "uptimeYear": "98.23%",
     "time": 2433,
