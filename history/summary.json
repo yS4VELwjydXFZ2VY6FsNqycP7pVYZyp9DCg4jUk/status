@@ -16,7 +16,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-10-18": 1145,
+      "2026-10-18": 1284,
       "2026-10-17": 1440,
       "2026-10-16": 1440,
       "2026-10-15": 1440,
@@ -400,7 +400,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-10-18": 1145,
+      "2026-10-18": 1284,
       "2026-10-17": 1440,
       "2026-10-16": 1440,
       "2026-10-15": 1440,
@@ -772,17 +772,17 @@
     "url": "https://hiroshima.fun",
     "icon": "https://icons.duckduckgo.com/ip3/hiroshima.fun.ico",
     "slug": "hiroshima-fun",
-    "status": "down",
-    "uptime": "99.61%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "99.79%",
-    "uptimeMonth": "95.42%",
-    "uptimeYear": "97.95%",
-    "time": 2446,
-    "timeDay": 3666,
-    "timeWeek": 2175,
-    "timeMonth": 3260,
-    "timeYear": 2474,
+    "status": "up",
+    "uptime": "99.60%",
+    "uptimeDay": "90.34%",
+    "uptimeWeek": "98.41%",
+    "uptimeMonth": "95.10%",
+    "uptimeYear": "97.93%",
+    "time": 2449,
+    "timeDay": 3411,
+    "timeWeek": 2298,
+    "timeMonth": 3257,
+    "timeYear": 2476,
     "dailyMinutesDown": {
       "2026-07-23": 90,
       "2026-07-24": 313,
@@ -840,7 +840,7 @@
       "2026-10-03": 171,
       "2026-10-07": 86,
       "2026-10-15": 21,
-      "2026-10-18": 0
+      "2026-10-18": 139
     }
   }
 ]
